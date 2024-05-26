@@ -22,7 +22,7 @@ The benchmark results provide insights into the performance characteristics of e
 - **Small Calculations**: Showcased minimal computation time differences but highlighted the overhead associated with setting up parallel and asynchronous operations.
 - **Large Calculations**: Demonstrated significant performance improvements in parallel executions, justifying the overhead for large-scale tasks.
 
-![Benchmark Results](https://github.com/MikolajTanski/AsyncParallelSyncTests/raw/main/assets/103507492/42ac8b3f-1dff-4493-ac43-b04dffa39930)
+![Benchmark Results](![image](https://github.com/MikolajTanski/AsyncParallelSyncTests/assets/103507492/24440bb3-cf82-4d40-bab5-e3452bd41040))
 
 ## Getting Started
 
