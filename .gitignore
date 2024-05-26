@@ -1,0 +1,53 @@
+# IDE - JetBrains Rider
+.idea/
+
+# IDE - Visual Studio Code (jeśli używasz)
+.vscode/
+
+# IDE - Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+
+# Kompilacja i pliki binarne
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.vspscc
+*.vssscc
+
+# Pliki publikacji
+PublishProfiles/
+*.pubxml
+*.pubxml.user
+
+# Inne pliki i foldery
+packages/
+*.nupkg
+*.nuspec
+ReSharper/
+_ReSharper.Caches/
+*.sln.docstates
+
+# Logi i pliki danych
+*.log
+*.sqldb
+*.sqlite
+
+# Pliki tymczasowe
+tmp/
+temp/
+*.tmp
+*.temp
+*.t
+
+# Node modules
+node_modules/
+
+# Pliki builda - NAnt
+*.builds
